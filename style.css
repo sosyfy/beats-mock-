@@ -139,7 +139,7 @@ select {
     margin-inline: auto;
     max-width: 80rem;
 }
-.products .products-container .box .box-text i {
+.products .products-container .box .box-text .fa-solid{
     padding: 10px;
     font-size: 20px;
     background: var(--text-color);
