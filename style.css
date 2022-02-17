@@ -139,3 +139,10 @@ select {
     margin-inline: auto;
     max-width: 80rem;
 }
+.products .products-container .box .box-text i {
+    padding: 10px;
+    font-size: 20px;
+    background: var(--text-color);
+    color: black;
+    border-radius: 5rem;
+  }
