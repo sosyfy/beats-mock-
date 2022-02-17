@@ -170,6 +170,11 @@ header .navbar .menu-items a {
   .specs h1 {
     font-size: 2rem;
     padding: 0;
+    float: center;
+    text-align: center;
+    align-self: center;
+    place-self: center;
+    width: 100%;
   }
   .specs .specs-container {
     display: flex;
@@ -247,11 +252,11 @@ header .navbar .menu-items a {
 .products .products-container .box .box-text .title-price span {
   font-weight: 500;
 }
-.products .products-container .box .box-text .bx {
+.products .products-container .box .box-text i {
   padding: 10px;
   font-size: 20px;
   background: var(--text-color);
-  color: #fff;
+  color: black;
   border-radius: 5rem;
 }
 .products .products-container .box .box-text .bx:hover {
